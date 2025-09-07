@@ -1,0 +1,1 @@
+import{_ as a,c as t,o,ae as n}from"./chunks/framework.Cd-3tpCq.js";const u=JSON.parse('{"title":"buddyGenAI Docs","description":"","frontmatter":{},"headers":[],"relativePath":"README.md","filePath":"README.md"}'),s={name:"README.md"};function i(r,e,d,l,c,p){return o(),t("div",null,e[0]||(e[0]=[n("",4)]))}const _=a(s,[["render",i]]);export{u as __pageData,_ as default};
